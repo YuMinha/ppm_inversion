@@ -39,7 +39,7 @@
 ---
 
 ## 주요 알고리즘
-<img src="https://github.com/user-attachments/assets/8bee81da-a81b-4fa6-85ba-4005886f10af" width="50%">
+<img src="https://github.com/user-attachments/assets/8bee81da-a81b-4fa6-85ba-4005886f10af" width="80%">
 
 ### 반전 처리
 - 각 픽셀에 대해 최대 밝기 값 - 현재 값 계산.
@@ -74,6 +74,12 @@
 
 ---
 
+## 실행 흐름도
+
+<img src = https://github.com/user-attachments/assets/ce696467-3676-499b-9ef8-d9fd2cc0d06b width="80%">
+
+---
+
 ## 모듈 설계
 
 <img src = https://github.com/user-attachments/assets/72ef49be-bf73-4067-87dd-664eb1a0d81b width="80%">
@@ -93,3 +99,7 @@
 
 ## 느낀 점
 이 프로젝트를 진행하며 파일 처리와 이미지 처리의 기초를 배우고 다양한 기술을 습득할 수 있었습니다. 설계와 분석의 중요성을 다시 한번 느끼며 체계적인 개발 과정의 필요성을 깨달았습니다.
+
+
+## 개발일
+- 2023년 9월 24일까지
